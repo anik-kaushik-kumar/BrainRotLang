@@ -26,8 +26,14 @@ Because:
 ```bash
 cargo build --release
 ```
+Then, in the folder of the compiled .exe,
+```
+brl --help
+```
 
 OR -- just use the installer to instantly add it to PATH??
+Check releases for latest installer.
 
-I'm done here.
+## License
+MIT License. Because even stupid projects deserve open-source freedom.
 
