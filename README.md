@@ -32,6 +32,7 @@ brl --help
 ```
 
 OR -- just use the installer to instantly add it to PATH??
+
 Check releases for latest installer.
 
 ## License
